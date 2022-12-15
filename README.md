@@ -1,6 +1,6 @@
 # Route Planning Project
 
-This repo contains the starter code for the Route Planning project.
+This repo contains my implementation for the Route Planning project from the Udacity C++ developer nanodegree.
 
 <img src="map.png" width="600" height="450" />
 
@@ -101,5 +101,18 @@ The testing executable is also placed in the `build` directory. From within `bui
      
 
 * If you are facing errors with --config try to remove -- from the command.
+
+## Examples of outputs
+![WhatsApp Image 2022-12-15 at 13 37 23](https://user-images.githubusercontent.com/54464437/207814537-397a501a-27ce-4c1a-a276-3fe2b8fc70a0.jpeg)
+
+![WhatsApp Image 2022-12-15 at 13 38 30](https://user-images.githubusercontent.com/54464437/207814631-abebd08f-3a38-4a21-a5d8-52e180098b34.jpeg)
+
+![WhatsApp Image 2022-12-15 at 13 37 57](https://user-images.githubusercontent.com/54464437/207814697-9f9581e9-b88e-4f3a-a734-ac97a17a6e19.jpeg)
+
+![WhatsApp Image 2022-12-15 at 13 38 52](https://user-images.githubusercontent.com/54464437/207814751-b5ded09c-5457-4d62-94e1-d77ee6a0f491.jpeg)
+
+
+
+
 
 
